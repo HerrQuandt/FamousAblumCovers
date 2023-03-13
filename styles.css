@@ -1,4 +1,11 @@
+* {
+    margin: 0.5rem;
+    padding: 0;
+    box-sizing: inherit;
+}
+
 body > div {
+    font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(90deg, gray, lightgray);
     border: solid black 3px;
     margin: 1rem;
