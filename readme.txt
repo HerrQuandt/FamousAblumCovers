@@ -1,0 +1,1 @@
+This is just a practice for html, css and responsive design
