@@ -39,3 +39,30 @@ h1{
     background: linear-gradient(90deg, gray, lightgray);
     margin: 1rem;
 }
+div {
+    margin: 10px;
+}
+
+.RAM {
+    width: 25%;
+    display: inline-block;
+}
+
+.DSOTM {
+    width: 25%;
+    display: inline-block;
+}
+
+.AW {
+    width: 25%;
+    display: inline-block;
+}
+
+@media screen and (max-width: 500px) {
+
+    .RAM,
+    .DSOTM,
+    .AW {
+        width: 70%;
+    }
+}
